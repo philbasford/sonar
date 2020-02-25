@@ -1,0 +1,9 @@
+.env
+.scannerwork
+.vscode
+.DS_Store
+cdk.out
+venv
+**/__pycache__
+**/*.egg-info
+cdk.context.json
