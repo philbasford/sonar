@@ -13,8 +13,8 @@ This project creates a SonarQube deployement using the Python development with C
 
 Please feel free to fork and enjoy! 
 
-All rights and licenses are:
+## All rights and licenses are:
 
-https://www.sonarqube.org/downloads/license/ 
-https://github.com/aws/aws-cdk/blob/master/LICENSE
+ * https://www.sonarqube.org/downloads/license/ 
+ * https://github.com/aws/aws-cdk/blob/master/LICENSE
 
